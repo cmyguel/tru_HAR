@@ -1,0 +1,68 @@
+{
+    "Mobile Health Human Behavior Analysis": {
+        "KNeighborsClassifier": {
+            "accuracy": 0.8090999999999999,
+            "f1": 0.8041215895793252
+        },
+        "LogisticRegression": {
+            "accuracy": 0.7325,
+            "f1": 0.6478764909126922
+        },
+        "RandomForestClassifier": {
+            "accuracy": 0.82,
+            "f1": 0.7924503703079322
+        },
+        "ExtraTreesClassifier": {
+            "accuracy": 0.8328999999999999,
+            "f1": 0.8112183737022818
+        },
+        "XGBClassifier": {
+            "accuracy": 0.8355,
+            "f1": 0.8244237204127274
+        }
+    },
+    "Human Activity Recognition Trondheim (HARTH)": {
+        "KNeighborsClassifier": {
+            "accuracy": 0.8404,
+            "f1": 0.8263381743956122
+        },
+        "LogisticRegression": {
+            "accuracy": 0.6672,
+            "f1": 0.5955567447096143
+        },
+        "RandomForestClassifier": {
+            "accuracy": 0.8614,
+            "f1": 0.8414088120978007
+        },
+        "ExtraTreesClassifier": {
+            "accuracy": 0.8647,
+            "f1": 0.8428580365077216
+        },
+        "XGBClassifier": {
+            "accuracy": 0.858,
+            "f1": 0.8431857518757176
+        }
+    },
+    "Human Activity Recognition with Smartphones": {
+        "KNeighborsClassifier": {
+            "accuracy": 0.9638174726412304,
+            "f1": 0.963671278894718
+        },
+        "LogisticRegression": {
+            "accuracy": 0.985718537414966,
+            "f1": 0.9857142477570147
+        },
+        "RandomForestClassifier": {
+            "accuracy": 0.9816385684708667,
+            "f1": 0.9816329644625401
+        },
+        "ExtraTreesClassifier": {
+            "accuracy": 0.9874861357586513,
+            "f1": 0.9874793897199725
+        },
+        "XGBClassifier": {
+            "accuracy": 0.9931991274770777,
+            "f1": 0.9931984704060032
+        }
+    }
+}
